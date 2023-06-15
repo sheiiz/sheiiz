@@ -1,12 +1,12 @@
 # Hello there 👋, I am Shehan ...
-<img align="right" alt="Coding" width='410' height='210'  src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-size_restricted.gif">
+<img align="right" alt="Coding" width='410' height='220'  src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-size_restricted.gif">
 
 👨‍💻 Computer Engineering Undergraduate<br>
 🏫 Univerisity of Peradeniya<br>
 😎 Interested in Backend Development<br>
 ✉️ Reach me via [shehan2k@gmail.com](mailto:shehan2k@gmail.com)
 
-<img align="left" alt="Coding" width='415' height='auto' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Remember..the%20Force%20will%20be%20with%20you,%20Always&author=Obi-Wan%20Kenobi">
+<img align="left" alt="Coding" width='410' height='130' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Remember..the%20Force%20will%20be%20with%20you,%20Always&author=Obi-Wan%20Kenobi">
 
 <!-- <img align="left" alt="Coding" width='530' height='auto' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=If%20you%20strike%20me%20down,%20I%20shall%20become%20more%20powerful%20than%20you%20can%20possibly%20imagine."> -->
 
@@ -15,11 +15,11 @@
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sheiiz&theme=react&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=sheiiz&theme=react&hide_border=true&include_all_commits=true&count_private=true) -->
-
+<br><br><br><br><br>
 
 <p>
-  <img align='left' width='auto' height='170' src="https://github-readme-streak-stats.herokuapp.com/?user=sheiiz&theme=react&hide_border=true" alt="Image 1">
-  <img width='auto' height='170' src="https://github-readme-stats.vercel.app/api?username=sheiiz&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Image 2">
+  <img align='left' width='auto' height='160' src="https://github-readme-streak-stats.herokuapp.com/?user=sheiiz&theme=react&hide_border=true" alt="Image 1">
+  <img width='auto' height='160' src="https://github-readme-stats.vercel.app/api?username=sheiiz&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Image 2">
 </p>
 
 <br>
