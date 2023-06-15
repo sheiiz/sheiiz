@@ -6,7 +6,7 @@
 😎 Interested in Backend Development<br>
 ✉️ Reach me via [shehan2k@gmail.com](mailto:shehan2k@gmail.com)
 
-<img align="left" alt="Coding" width='410' height='auto' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Remember..the%20Force%20will%20be%20with%20you,%20Always&author=Obi-Wan%20Kenobi">
+<img align="left" alt="Coding" width='420' height='auto' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Remember..the%20Force%20will%20be%20with%20you,%20Always&author=Obi-Wan%20Kenobi">
 
 <!-- <img align="left" alt="Coding" width='530' height='auto' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=If%20you%20strike%20me%20down,%20I%20shall%20become%20more%20powerful%20than%20you%20can%20possibly%20imagine."> -->
 
