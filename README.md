@@ -1,5 +1,5 @@
 # Hello there 👋, I am Shehan ...
-<img align="right" alt="Coding" width='410' height='215'  src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-size_restricted.gif">
+<img align="right" alt="Coding" width='410' height='210'  src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-size_restricted.gif">
 
 👨‍💻 Computer Engineering Undergraduate<br>
 🏫 Univerisity of Peradeniya<br>
