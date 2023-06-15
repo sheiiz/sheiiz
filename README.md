@@ -18,8 +18,8 @@
 <br><br><br><br><br><br><br>
 
 <p>
-  <img align='left' width='auto' height='160' src="https://github-readme-streak-stats.herokuapp.com/?user=sheiiz&theme=react&hide_border=true" alt="Image 1">
-  <img width='auto' height='160' src="https://github-readme-stats.vercel.app/api?username=sheiiz&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Image 2">
+  <img align='left' width='auto' height='170' src="https://github-readme-streak-stats.herokuapp.com/?user=sheiiz&theme=react&hide_border=true" alt="Image 1">
+  <img width='auto' height='170' src="https://github-readme-stats.vercel.app/api?username=sheiiz&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Image 2">
 </p>
 
 <br>
