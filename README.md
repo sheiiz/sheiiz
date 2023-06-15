@@ -13,12 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...👋
 -->
 # Hello there 👋, I am Shehan ...
+<img align="right" alt="Coding" width='450'  src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-size_restricted.gif">
+
+
+
 🔭 I’m currently working on<br>
 👯 I’m looking to collaborate on<br>
 🤝 I’m looking for help with<br>
 🌱 I’m currently learning<br>
 💬 Ask me about<br>
-⚡ Fun fact
+⚡ Fun fact<br><br><br><br>
+
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sheiiz&theme=react&hide_border=true)
